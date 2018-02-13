@@ -1,2 +1,2 @@
 # CSC-7
-Discrete Structures (Spring2018RCC)
+Discrete Structures (42486) (Spring 2018 RCC)
